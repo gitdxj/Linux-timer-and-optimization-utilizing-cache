@@ -1,6 +1,7 @@
 # depslib dependency file v1.0
-1552014322 source:/home/fr/codeBlocksProject/Project1/main.cpp
+1552378969 source:/home/fr/codeBlocksProject/Project1/main.cpp
 	<iostream>
+	<fstream>
 	<stdio.h>
 	<sys/time.h>
 
